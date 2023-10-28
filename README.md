@@ -1,0 +1,2 @@
+# kesif-kapisi
+tur sirketi
