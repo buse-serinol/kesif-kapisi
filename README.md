@@ -18,7 +18,7 @@ Bu web sitesinin HTML ve CSS dosyalarını kullanmak için aşağıdaki adımlar
 
 ## GIF
 
-![](kesif-kapisi.gif)
+![](/kesif-kapisi.gif)
 
 ## Katkılar
 
