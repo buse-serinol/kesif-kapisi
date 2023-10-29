@@ -16,7 +16,7 @@ Bu web sitesinin HTML ve CSS dosyalarını kullanmak için aşağıdaki adımlar
 
 3. Web sitesini özelleştirmek için "style.css" dosyasını düzenleyebilirsiniz. Renkler, yazı tipleri ve stil ayarlarını bu dosya üzerinden değiştirebilirsiniz.
 
-## Ekran Görüntüleri
+## GIF
 
 ![](kesif-kapisi.gif)
 
